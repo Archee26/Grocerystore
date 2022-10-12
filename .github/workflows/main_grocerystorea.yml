@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'Grocerystorea'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D76986D25F0B413AAEFEEC9DF3B26790 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FD88104F6A71459CAC8C6908C898E5FC }}
           package: .
